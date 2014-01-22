@@ -1,3 +1,3 @@
-# shakespeare and tolkien exherpts
+# shakespeare and tolkien excerps
 by me
 
